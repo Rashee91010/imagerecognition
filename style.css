@@ -1,0 +1,15 @@
+.heading{
+    font-size:25px;
+    width:80%;
+}
+body{
+    background-color:burlywood;
+}
+.objects,#resultobject,#resultaccuracy{
+    color:darkred;
+}
+#camera,#result{
+    border:2px solid chocolate;
+    width:350px;
+    height:300px;
+}
